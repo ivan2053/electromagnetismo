@@ -1,6 +1,6 @@
 # Electromagnetismo
 
-Alumno: Ortuño Alejandro
+Alumno: Ivan  di viriglio
 
 Curso: 5to 2da Avionica
 
